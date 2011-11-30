@@ -1,0 +1,17 @@
+
+{
+  "author": "Development Seed <info@developmentseed.org> (developmentseed.org)",
+  "name": "test-schema",
+  "description": "A server to test oauth",
+  "version": "0.0.0",
+  "engines": {
+    "node": "~v0.6.2"
+  },
+  "dependencies": {
+      "amanda": "= 0.2.2",
+      "mocha": "= 0.1.0",
+      "JSV": "= 3.5.0",
+      "underscore": "= 1.2.2"
+  },
+  "devDependencies": {}
+}
